@@ -5,5 +5,5 @@ Study of _Inductive Program Synthesis by Using a Reversible Meta-Interpreter_ by
 ## How to Run
 - Get swi-prolog. On mac, `brew install swi-prolog`.
 - Run swi-prolog: `swipl`.
-- Load a file, `['reversible-interpreter.pl']` or `['simple-generalization.pl']`.
+- Load a file, `['reversible-interpreter.pl'].` or `['simple-generalization.pl'].`.
 - Run a function/test, `test_append.` or `show_generalization_demo.`.
